@@ -12,12 +12,12 @@ A macro that plants your plants in the approriate fashion for beating the mini g
 # SCRIPT REQUIREMENTS
 - Install https://www.autohotkey.com/ if you are running the AHK file. If you do not have this, the .exe file is also listed above and will suffice, though AutoHotKey is amazing     and you should use it and learn about it.
 
-INSTRUCTIONS (also inside the script):
+# INSTRUCTIONS (also inside the script):
 1. Run Plants vs. Zombies in windowed mode
 2. Click the "Last Stand" minigame in the minigames section
 3. Select your plants in the following order, or else it will not work:
    - | Marigold | Lillypad | Magnet-shroom | Gold Magnet | Garlic | Fume-shroom | Gloom-shroom | Coffee Bean | Pumpkin |
 4. When you are ready to plant your plants, simply hit the "F10" key on your keyboard and everything will be planted ready for money making. You may go back into full screen if you prefer, the script is just very hard to make if you're taking full screen into account.
 
-NOTES:
+# NOTES:
 - This has only been tested on a 1080p monitor, I think it should work on any resolution though as the script is based on the resolution of the window, not the resolution of the     monitor.
