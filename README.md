@@ -20,4 +20,6 @@ A macro that plants your plants in the approriate fashion for beating the mini g
 4. When you are ready to plant your plants, simply hit the "F10" key on your keyboard and everything will be planted ready for money making. You may go back into full screen if you prefer, the script is just very hard to make if you're taking full screen into account.
 
 # NOTES:
+- This defense will also beat the Last Stand minigame, so if you have not beaten it yet, this will do it for you too, and you will get a lovely diamond at the end.
 - This has only been tested on a 1080p monitor, I think it should work on any resolution though as the script is based on the resolution of the window, not the resolution of the     monitor.
+- Credit to the layout of the defense goes to this YouTube video https://www.youtube.com/watch?v=04wnN7pfUo8. I don't know if they were first but it certainly seems to be the most   popular video. I reccomend watching it for additional instructions on what to do during the battle.
