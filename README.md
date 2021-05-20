@@ -9,7 +9,7 @@ A macro that plants your plants in the approriate fashion for beating the mini g
   - Total price for the above is $30500 coins. This can be unlocked with relatively little effort if you save your coins up effectively until you unlock the Last Stand             minigame.
 
 
-# SCRIPT REQUIREMENTS
+# SCRIPT REQUIREMENTS:
 - Install https://www.autohotkey.com/ if you are running the AHK file. If you do not have this, the .exe file is also listed above and will suffice, though AutoHotKey is amazing     and you should use it and learn about it.
 
 # INSTRUCTIONS:
