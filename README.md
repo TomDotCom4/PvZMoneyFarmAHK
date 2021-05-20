@@ -3,9 +3,9 @@ A macro that plants your plants in the approriate fashion for beating the mini g
 
 # GAME REQUIREMENTS:
 - Unlock the "Last Stand" minigame
-- Purchase the Gold Magnet from Crazy Dave's Twiddydinkies.
-- Purchase the Gloom Shroom from Crazy Dave's Twiddydinkies.
-- Purchase the 9th seed slot from Crazy Dave's Twiddydinkies.
+- Purchase the Gold Magnet for $3000 from Crazy Dave's Twiddydinkies.
+- Purchase the Gloom Shroom for $7500 from Crazy Dave's Twiddydinkies.
+- Purchase the 9th seed slot for $20000 from Crazy Dave's Twiddydinkies.
   - Total price for what you need is $29500 coins. This can be unlocked with relatively little effort if you save your coins up effectively until you unlock the Last Stand             minigame.
 
 
