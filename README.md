@@ -12,7 +12,7 @@ A macro that plants your plants in the approriate fashion for beating the mini g
 # SCRIPT REQUIREMENTS
 - Install https://www.autohotkey.com/ if you are running the AHK file. If you do not have this, the .exe file is also listed above and will suffice, though AutoHotKey is amazing     and you should use it and learn about it.
 
-# INSTRUCTIONS (also inside the script):
+# INSTRUCTIONS:
 1. Run Plants vs. Zombies in windowed mode
 2. Click the "Last Stand" minigame in the minigames section
 3. Select your plants in the following order, or else it will not work:
