@@ -1,4 +1,4 @@
-# Plants vs. Zombies money farm AutoHotKey script
+# Plants vs. Zombies Money Farm AutoHotKey Script.
 A macro that plants your plants in the approriate fashion for beating the mini game last stand and making a money farm in the process. This will save you lots of time farming as you don't have to constantly replant your whole defense if you are saving up for something.
 
 # GAME REQUIREMENTS:
