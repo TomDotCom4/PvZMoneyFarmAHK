@@ -2,7 +2,7 @@
 A macro that plants your plants in the approriate fashion for beating the mini game last stand and making a money farm in the process. This will save you lots of time farming as you don't have to constantly replant your whole defense manually if you are saving up for something.
 
 # GAME REQUIREMENTS:
-- Unlock the "Last Stand" minigame.
+- Access to the "Last Stand" minigame.
 - Purchase the Gold Magnet for $3000 from Crazy Dave's Twiddydinkies.
 - Purchase the Gloom Shroom for $7500 from Crazy Dave's Twiddydinkies.
 - Purchase the 9th seed slot for $20000 from Crazy Dave's Twiddydinkies.
